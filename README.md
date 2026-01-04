@@ -35,7 +35,8 @@ It helps in building logical thinking and problem-solving skills.
 ---
 
 ## Output Screenshot
-- ![Output Screenshot](Gopal_Krishna_Shukla/OUTPUT.png)
+- ![Output Screenshot](OUTPUT.png)
+
 
 
 ---
